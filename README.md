@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Researcher+%7C+Builder;Teaching+machines+to+think.;Graduate+TA+%40+Georgia+State+University;Open+to%3A+Research+Internships+%7C+PhD+Fall+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Researcher+%7C+Builder;Teaching+machines+to+think.;Graduate+TA+%40+Georgia+State+University;Open+to%3A+Research+Internships alt="Typing SVG" />
 </a>
 
 <br/>
@@ -65,7 +65,7 @@ Full-stack mobile application for mental wellness tracking, journaling, and mood
 
 ---
 
-> 💼 Additional projects — including research implementations and internship-track builds — are available on request or via my [portfolio](https://yourportfolio.vercel.app).
+
 
 ---
 
