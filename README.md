@@ -2,12 +2,12 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Researcher+%7C+Builder;Teaching+machines+to+think.;Graduate+TA+%40+Georgia+State+University;Open+to%3A+Research+Internships+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Researcher+%7C+Builder;Teaching+machines+to+think.;Graduate+TA+%40+Georgia+State+University;Open+to%3A+Research+Internships%7C" alt="Typing SVG" />
 </a>
 
 <br/>
 
-# Murali Krishna Mopuri
+# Murali Krishna Maddineni
 
 **MS Computer Science · Georgia State University**  
 Graduate Teaching Assistant — Deep Learning (CSC 8851)  
