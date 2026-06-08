@@ -2,7 +2,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Researcher+%7C+Builder;Teaching+machines+to+think.;Graduate+TA+%40+Georgia+State+University;Open+to%3A+Research+Internships%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Researcher+%7C+Builder;Teaching+machines+to+think.;Graduate+TA+%40+Georgia+State+University;Open+to%3A+Research+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,7 +15,7 @@ Atlanta, GA · Open to Research Internships & GRA Roles
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/murali-maddineni-709151247/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/murali-maddineni-709151247/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muralimaddineni007@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app)
 
