@@ -2,7 +2,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Researcher+%7C+Builder;Teaching+machines+to+think.;Graduate+TA+%40+Georgia+State+University;Open+to%3A+Research+Internships+%7C+PhD+Fall+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Researcher+%7C+Builder;Teaching+machines+to+think.;Graduate+TA+%40+Georgia+State+University;Open+to%3A+Research+Internships+%7C" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,9 +45,6 @@ I build things that work: from full-stack automation pipelines to Claude-powered
 
 ## Projects
 
-### 🔍 Pathfinder — Job Search Automation Pipeline
-Full-stack tool integrating USCIS/DOL data, employer H-1B scoring, job scraping (Greenhouse · Lever · Ashby), profile matching, and Discord alerts. Built in Cursor IDE with Claude API integration.  
-`Python` `Claude API` `Automation` `Full-Stack`
 
 ---
 
