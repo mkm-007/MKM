@@ -21,9 +21,9 @@ Open to: Software / AI / ML Internships · Co-ops · Applied AI roles
 
 | Resume item | Repo | Demo | Status |
 |-------------|------|------|--------|
-| NLQ Chatbot over Database | [nlq-chatbot](https://github.com/mkm-007/MKM/tree/main/labs/nlq-chatbot) | `python run_demo.py` | Public |
-| Document Abstraction (RAG) | [doc-abstraction-llm](https://github.com/mkm-007/MKM/tree/main/labs/doc-abstraction-llm) | `python run_demo.py` | Public |
-| UI Component Agent Bot | [ui-agent-bot](https://github.com/mkm-007/MKM/tree/main/labs/ui-agent-bot) | `python run_demo.py` | Public |
+| NLQ Chatbot over Database | [nlq-chatbot](https://github.com/mkm-007/nlq-chatbot) | `python run_demo.py` | Public |
+| Document Abstraction (RAG) | [doc-abstraction-llm](https://github.com/mkm-007/doc-abstraction-llm) | `python run_demo.py` | Public |
+| UI Component Agent Bot | [ui-agent-bot](https://github.com/mkm-007/ui-agent-bot) | `python run_demo.py` | Public |
 | GA — Deep Learning (CSC 8851) | this hub (Experience) | — | Documented |
 | NSIC Embedded Systems Intern | this hub (Experience) | — | Documented |
 | Region-guided radiology (CXR) | [AIP_Radiology_Project](https://github.com/mkm-007/AIP_Radiology_Project) | see repo | Public |
@@ -64,19 +64,19 @@ Career arc: **NSIC embedded internship → GITAM Centre AI tooling → GSU MS + 
 ### 1) NLQ Chatbot over Database
 Natural-language-to-SQL chatbot so staff can query records without raw SQL; answers grounded on DB results.  
 **Stack:** Python · LangChain · Postgres/SQLite · LLM  
-**Repo:** [mkm-007/MKM/tree/main/labs/nlq-chatbot](https://github.com/mkm-007/MKM/tree/main/labs/nlq-chatbot)  
+**Repo:** [mkm-007/nlq-chatbot](https://github.com/mkm-007/nlq-chatbot)  
 **Demo:** `python run_demo.py` · see `demo_output.txt`
 
 ### 2) Document Abstraction with LLM (RAG)
 Schematic chunking, vector indexing, and LLM summarization for retrieval-grounded document Q&A.  
 **Stack:** Python · ChromaDB-style store · LangChain hooks  
-**Repo:** [mkm-007/MKM/tree/main/labs/doc-abstraction-llm](https://github.com/mkm-007/MKM/tree/main/labs/doc-abstraction-llm)  
+**Repo:** [mkm-007/doc-abstraction-llm](https://github.com/mkm-007/doc-abstraction-llm)  
 **Demo:** `python run_demo.py` · see `demo_output.txt`
 
 ### 3) UI Component Agent Bot
 Agent that maps natural-language UI requests to component specs and emits Angular-ready stubs.  
 **Stack:** Python · Angular · Agentic workflow  
-**Repo:** [mkm-007/MKM/tree/main/labs/ui-agent-bot](https://github.com/mkm-007/MKM/tree/main/labs/ui-agent-bot)  
+**Repo:** [mkm-007/ui-agent-bot](https://github.com/mkm-007/ui-agent-bot)  
 **Demo:** `python run_demo.py` · see `demo_output.txt`
 
 ### 4) VoiceMate (RAGO) Voice Assistant
