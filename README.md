@@ -1,51 +1,54 @@
-# Murali Krishna Maddineni
+# Murali Krishna Maddineni — Portfolio
 
-**MS Computer Science · Georgia State University**  
-Graduate Assistant — Deep Learning (CSC 8851) · Atlanta, GA  
+**MS Computer Science · Georgia State University** · Atlanta, GA  
+Graduate Assistant — Deep Learning (CSC 8851)  
 Open to: Software / AI / ML Internships · Co-ops · Applied AI roles
 
-[Verification Hub](https://github.com/mkm-007/MKM) · [Email](mailto:mmaddineni1@student.gsu.edu) · [GitHub](https://github.com/mkm-007) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/) *(secondary)*
+[Email](mailto:mmaddineni1@student.gsu.edu) · [GitHub](https://github.com/mkm-007) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/) *(secondary)*
 
-> **This repo is my verification hub** (primary professional profile on GitHub).  
-> Resume claims map to experience + projects below. Each flagship item links to runnable code, tests, and demo output.
-
----
-
-## Start here (recruiter path)
-
-1. Skim **Experience** (what I own)
-2. Open **Flagship projects** (what runs)
-3. Spot-check one repo: `README` → `demo_output.txt` → `python run_demo.py` / tests
-
-### Proof index
-
-| Resume item | Repo | Demo | Status |
-|-------------|------|------|--------|
-| NLQ Chatbot over Database | [nlq-chatbot](https://github.com/mkm-007/nlq-chatbot) | `python run_demo.py` | Public |
-| Document Abstraction (RAG) | [doc-abstraction-llm](https://github.com/mkm-007/doc-abstraction-llm) | `python run_demo.py` | Public |
-| UI Component Agent Bot | [ui-agent-bot](https://github.com/mkm-007/ui-agent-bot) | `python run_demo.py` | Public |
-| GA — Deep Learning (CSC 8851) | this hub (Experience) | — | Documented |
-| NSIC Embedded Systems Intern | this hub (Experience) | — | Documented |
-| Region-guided radiology (CXR) | [AIP_Radiology_Project](https://github.com/mkm-007/AIP_Radiology_Project) | see repo | Public |
-| Graph de-anonymization / privacy | [Individual_Project](https://github.com/mkm-007/Individual_Project) | see repo | Public |
-| VoiceMate (UG Capstone) | TBD public repo | — | Phase 2 |
+> This is my **portfolio** — not a second LinkedIn.  
+> It mirrors my resume (**Experience → Projects**) and shows **SPT** work units you can run and verify.
 
 ---
 
-## About
+## What I bring (capabilities from background)
 
-MS CS student at Georgia State University with ECE + AIML undergraduate training.  
-I build applied AI systems end-to-end: NL→SQL chatbots, RAG document pipelines, and UI agent workflows — plus DL course/lab support as a Graduate Assistant.
+I do not present myself as a tool list. I present **capabilities earned from a continuous arc**:
 
-Career arc: **NSIC embedded internship → GITAM Centre AI tooling → GSU MS + Deep Learning GA**.
+| Capability | Background root | Proof on this portfolio |
+|------------|-----------------|-------------------------|
+| Staff-facing applied AI (query, retrieve, agent) | Centre for Advanced Technology Solutions + SPT | Projects below |
+| Deep learning practice + instructional support | GSU GA (CSC 8851) + MS DL/ML | Experience |
+| Grounded data answers (SQL / DB paths) | Centre AI + Database Systems coursework | NLQ project |
+| Device bring-up & HW/SW integration | NSIC Embedded Systems internship | Experience |
+| ECE + AIML foundations | B.Tech ECE (AIML) · GITAM | Education + VoiceMate |
+| Vision / privacy depth | MS AIP + PAC coursework | Linked coursework repos |
+
+**Career arc:** NSIC embedded internship → GITAM Centre AI systems → GSU MS + Deep Learning GA → **SPT** (ongoing).
+
+---
+
+## SPT — Self-Practical Training (active)
+
+SPT is how I keep converting **background + curriculum** into **junior-standard work units**:
+
+1. Problem (who benefits)  
+2. Build  
+3. Verify (tests / eval)  
+4. Demo (reproducible)  
+5. Document (README + honest claims)
+
+The three resume projects below are **SPT work units** from Centre AI ownership — maintained and demoable here so recruiters can verify what the resume claims.
 
 ---
 
 ## Experience
 
+*(Same roles as the resume.)*
+
 ### Graduate Assistant — Deep Learning (CSC 8851)
 **Georgia State University** · Atlanta, GA · Aug 2025 – Present  
-- Support in-person Deep Learning labs; help students with Python/Linux debugging, experiment setup, and technical communication  
+- Support in-person Deep Learning labs; guide students on Python/Linux debugging, experiment setup, and technical communication  
 - Contribute to research workflows in weak supervision, vision, and generative DL under [Prof. Hemanth Venkateswara](https://www.hemanthdv.org/index.html)
 
 ### Administrative Assistant — AI Systems
@@ -59,56 +62,61 @@ Career arc: **NSIC embedded internship → GITAM Centre AI tooling → GSU MS + 
 
 ---
 
-## Flagship projects (resume proof)
+## Projects (SPT work units)
 
-### 1) NLQ Chatbot over Database
-Natural-language-to-SQL chatbot so staff can query records without raw SQL; answers grounded on DB results.  
-**Stack:** Python · LangChain · Postgres/SQLite · LLM  
-**Repo:** [mkm-007/nlq-chatbot](https://github.com/mkm-007/nlq-chatbot)  
-**Demo:** `python run_demo.py` · see `demo_output.txt`
+*(Same titles as the resume — each links to runnable proof.)*
 
-### 2) Document Abstraction with LLM (RAG)
-Schematic chunking, vector indexing, and LLM summarization for retrieval-grounded document Q&A.  
-**Stack:** Python · ChromaDB-style store · LangChain hooks  
-**Repo:** [mkm-007/doc-abstraction-llm](https://github.com/mkm-007/doc-abstraction-llm)  
-**Demo:** `python run_demo.py` · see `demo_output.txt`
+### NLQ Chatbot over Database
+**Stack:** Python, LangChain, Postgres, LLM · **May 2024 – Dec 2024**  
+Built natural-language-to-SQL chatbot so staff can query records without raw SQL; grounded answers on DB results. Designed safe query path and demo workflow for staff-facing use.  
 
-### 3) UI Component Agent Bot
-Agent that maps natural-language UI requests to component specs and emits Angular-ready stubs.  
-**Stack:** Python · Angular · Agentic workflow  
-**Repo:** [mkm-007/ui-agent-bot](https://github.com/mkm-007/ui-agent-bot)  
-**Demo:** `python run_demo.py` · see `demo_output.txt`
+**SPT proof:** [nlq-chatbot](https://github.com/mkm-007/nlq-chatbot) · `python run_demo.py` · `demo_output.txt` · tests
 
-### 4) VoiceMate (RAGO) Voice Assistant
-UG capstone — context-aware voice assistant (team of 3); demos + documentation delivered.  
-**Stack:** Python · RNN / LSTM / GRU  
-**Status:** Public repo in Phase 2
+### Document Abstraction with LLM (RAG)
+**Stack:** Python, ChromaDB, LangChain · **May 2024 – Dec 2024**  
+Implemented schematic chunking, vector indexing, and LLM summarization for document Q&A. Delivered retrieval-grounded abstracts with a reproducible pipeline and handoff documentation.  
+
+**SPT proof:** [doc-abstraction-llm](https://github.com/mkm-007/doc-abstraction-llm) · `python run_demo.py` · `demo_output.txt` · tests
+
+### UI Component Agent Bot
+**Stack:** Python, Angular, Agentic Workflow · **May 2024 – Dec 2024**  
+Built an agent that maps natural-language UI requests to component specs and emits Angular-ready stubs. Owned plan–act–emit loop and front-end integration for faster internal UI prototyping.  
+
+**SPT proof:** [ui-agent-bot](https://github.com/mkm-007/ui-agent-bot) · `python run_demo.py` · `demo_output.txt` · tests
+
+### VoiceMate (RAGO) Voice Assistant
+**Stack:** Python, RNN/LSTM/GRU · **Aug 2023 – Apr 2024**  
+Led a 3-person UG capstone on a context-aware voice assistant; delivered demos and documentation.  
+
+**Status:** Capstone artifacts — public SPT package in progress
 
 ---
 
-## Coursework projects (additional proof)
+## Proof index (resume → repo)
 
-| Project | Area | Repo / notes |
-|---------|------|--------------|
-| Region-guided radiology report generation (CXR) | Vision · NLP · DL | [AIP_Radiology_Project](https://github.com/mkm-007/AIP_Radiology_Project) |
-| Graph de-anonymization / privacy analysis | Privacy · Networks | [Individual_Project](https://github.com/mkm-007/Individual_Project) |
-| Lifeline blood donation platform | Databases · Backend | Phase 2 |
-| Weather time-series forecasting | ML · Forecasting | Phase 2 |
-| Congestion-aware survivable routing | Networks · Optimization | Phase 2 |
+| Resume item | Capability | Repo |
+|-------------|------------|------|
+| NLQ Chatbot over Database | Grounded NL→SQL for staff | [nlq-chatbot](https://github.com/mkm-007/nlq-chatbot) |
+| Document Abstraction (RAG) | Retrieval-grounded document Q&A | [doc-abstraction-llm](https://github.com/mkm-007/doc-abstraction-llm) |
+| UI Component Agent Bot | NL → UI component agent | [ui-agent-bot](https://github.com/mkm-007/ui-agent-bot) |
+| GA — Deep Learning | Teaching + research workflow support | this page (Experience) |
+| NSIC Embedded Intern | Device bring-up | this page (Experience) |
+| Region-guided radiology (CXR) | Vision / explainable reporting | [AIP_Radiology_Project](https://github.com/mkm-007/AIP_Radiology_Project) |
+| Graph de-anonymization / privacy | Privacy / network analysis | [Individual_Project](https://github.com/mkm-007/Individual_Project) |
 
 ---
 
 ## Education
 
-**M.Sc. Computer Science** — Georgia State University · Atlanta, GA · Jan 2025 – Present  
+**M.Sc. Computer Science** — Georgia State University · Jan 2025 – Present  
 Coursework: Deep Learning, Machine Learning, Database Systems, Privacy Aware Computing, Advanced Image Processing
 
-**B.Tech ECE (AIML Specialization)** — GITAM University · Hyderabad, India · Aug 2020 – Apr 2024  
+**B.Tech ECE (AIML Specialization)** — GITAM University · Aug 2020 – Apr 2024  
 Coursework: Machine Learning, Deep Learning, Modern AI, Big Data Analytics, DSA (Python), DBMS, Microprocessors, IoT, DSP
 
 ---
 
-## Skills
+## Technical skills
 
 **Languages:** Python, SQL, Embedded C, C, JavaScript (familiar)  
 **AI / ML:** LangChain, LLMs, RAG (ChromaDB), PyTorch, scikit-learn, Deep Learning  
@@ -117,12 +125,13 @@ Coursework: Machine Learning, Deep Learning, Modern AI, Big Data Analytics, DSA 
 
 ---
 
-## How to verify authenticity
+## How to use this portfolio
 
-1. Match titles/dates here with the resume PDF  
-2. Open a flagship repo README and check `demo_output.txt` (or run the demo/tests)  
-3. Ask about ownership decisions (data path, retrieval grounding, agent loop) — I can walk through them end-to-end
+1. Read **capabilities** (what I can do and why)  
+2. Skim **Experience** (same as resume)  
+3. Open one **Project** SPT repo → README → `demo_output.txt` → optional `run_demo.py`  
+4. Ask me about ownership decisions — I can walk each closed loop end-to-end
 
 ---
 
-Last updated: July 2026 · Hub: [mkm-007/MKM](https://github.com/mkm-007/MKM)
+Last updated: July 2026 · Portfolio: [mkm-007/MKM](https://github.com/mkm-007/MKM)
