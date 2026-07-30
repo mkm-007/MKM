@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/mkm-007",
   },
   aboutMe:
-    "ECE and AIML gave me strong fundamentals in systems, data, and machine learning. I've since moved from devices through applied AI to deep learning at Georgia State, where I'm pursuing my MS and working as a Graduate Assistant. I'm interested in applied theory and research that helps scale real products and services.",
+    "I studied ECE with an AIML focus — so I learned ML next to hardware and systems, not just in notebooks. I've wired up IoT prototypes, built AI tools that staff at GITAM used every week, and now I'm at Georgia State for my MS, running Deep Learning labs and pitching in on research. I'm drawn to work where a good idea has to survive real users and real constraints.",
   skills: [
     "Python",
     "SQL",
