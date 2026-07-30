@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/mkm-007",
   },
   aboutMe:
-    "From ECE + AIML to MS Computer Science at Georgia State, I turn research-grade thinking into practical AI systems built for real users and scalable products.",
+    "ECE + AIML taught me systems-first ML, and at GSU I apply research-grade rigor to build evidence-grounded AI that scales.",
   skills: [
     "Python",
     "SQL",
