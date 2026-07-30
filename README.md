@@ -6,6 +6,8 @@ Open to: Software / AI / ML Internships · Co-ops · Applied AI roles
 
 [Portfolio site](https://mkm-007.github.io/MKM/) · [Email](mailto:mmaddineni1@student.gsu.edu) · [GitHub](https://github.com/mkm-007) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/)
 
+I come from an ECE and AIML foundation — strong on the fundamentals of systems, data, and machine learning — and I care about turning that grounding into products people can actually use. At NSIC I learned device bring-up and hardware–software integration; at GITAM’s Centre for Advanced Technology Solutions I owned staff-facing AI tools that made data and documents easier to work with. Now I’m an MS Computer Science student at Georgia State University and a Graduate Assistant for Deep Learning, where I stay close to theory and research practice while teaching and supporting lab work. What I want next is to apply that mix — foundations, shipped systems, and research depth — to help scale real products and services.
+
 ---
 
 ## Experience
