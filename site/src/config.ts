@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/mkm-007",
   },
   aboutMe:
-    "I come from an ECE and AIML foundation — strong on the fundamentals of systems, data, and machine learning — and I care about turning that grounding into products people can actually use. At NSIC I learned device bring-up and hardware–software integration; at GITAM’s Centre for Advanced Technology Solutions I owned staff-facing AI tools that made data and documents easier to work with. Now I’m an MS Computer Science student at Georgia State University and a Graduate Assistant for Deep Learning, where I stay close to theory and research practice while teaching and supporting lab work. What I want next is to apply that mix — foundations, shipped systems, and research depth — to help scale real products and services. Open to Software, AI, and ML internships, co-ops, and applied AI roles.",
+    "ECE and AIML gave me strong fundamentals in systems, data, and machine learning. I've since moved from devices through applied AI to deep learning at Georgia State, where I'm pursuing my MS and working as a Graduate Assistant. I'm interested in applied theory and research that helps scale real products and services.",
   skills: [
     "Python",
     "SQL",
