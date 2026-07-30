@@ -6,7 +6,7 @@ Open to: Software / AI / ML Internships · Co-ops · Applied AI roles
 
 [Portfolio site](https://mkm-007.github.io/MKM/) · [Email](mailto:mmaddineni1@student.gsu.edu) · [GitHub](https://github.com/mkm-007) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/)
 
-I'm still early in industry terms, so I lead with academic proof and research standards: clear problem framing, reproducible work, and honest results. My path from ECE + AIML to MS Computer Science at Georgia State shaped how I think about building AI systems — practical enough for real users, rigorous enough to grow into larger products and services. That's the direction I want to keep taking as I move deeper into professional engineering work.
+From ECE + AIML to MS Computer Science at Georgia State, I turn research-grade thinking into practical AI systems built for real users and scalable products.
 
 ---
 
