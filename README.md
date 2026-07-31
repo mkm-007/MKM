@@ -6,9 +6,9 @@ Open to: Software / AI / ML Internships · Co-ops · Applied AI roles
 
 [Portfolio site](https://mkm-007.github.io/MKM/) · [Email](mailto:mmaddineni1@student.gsu.edu) · [GitHub](https://github.com/mkm-007) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/)
 
-I build applied AI people can trust.
+I am building an academic foundation in applied AI and deep learning.
 
-From ECE + AIML into device bring-up, staff-facing NLQ / RAG / agents, and Deep Learning at GSU, I own the work until partners can rely on what runs: validated outputs, clear notes, demoable proof.
+As an MS CS student and Deep Learning GA at Georgia State, I work from ECE + AIML roots through coursework systems and campus AI tooling. The standard I hold is research-minded and honest: clear framing, careful evaluation, reproducible demos, and claims that survive scrutiny.
 
 ---
 

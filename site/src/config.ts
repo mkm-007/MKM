@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/mkm-007",
   },
   aboutMe:
-    "I own applied AI end to end: staff-facing NLQ, RAG, and agents with validated paths so partners can rely on tools under real use, and Deep Learning practice at GSU where careful evaluation comes before anyone trusts a result.",
+    "I am an MS Computer Science student and Deep Learning Graduate Assistant at Georgia State. From ECE + AIML through coursework projects and campus AI tooling (NLQ, RAG, agents), I keep an academic standard: clear problem framing, careful evaluation, and reproducible demos before anyone trusts a result.",
   skills: [
     "Python",
     "SQL",
