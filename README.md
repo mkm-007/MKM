@@ -6,7 +6,7 @@ Open to: Software / AI / ML Internships · Co-ops · Applied AI roles
 
 [Portfolio site](https://mkm-007.github.io/MKM/) · [Email](mailto:mmaddineni1@student.gsu.edu) · [GitHub](https://github.com/mkm-007) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/)
 
-I learn from the problem, ask who it helps, apply the skill carefully, and leave something that serves someone. ECE + AIML into device systems, staff-facing AI, and deep learning practice at GSU.
+I stay with a problem until it speaks clearly, then ask who wakes up lighter because of the work. From there I build with care and leave proof someone can use. ECE + AIML carried me into devices, staff-facing AI, and deep learning practice at GSU.
 
 ---
 
