@@ -6,9 +6,9 @@ Open to: Software / AI / ML Internships · Co-ops · Applied AI roles
 
 [Portfolio site](https://mkm-007.github.io/MKM/) · [Email](mailto:mmaddineni1@student.gsu.edu) · [GitHub](https://github.com/mkm-007) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/)
 
-I am building myself into someone US teams can trust with real work.
+I build applied AI people can trust.
 
-That means uniting what I already carry (ECE + AIML foundations, device bring-up, staff-facing AI I owned, deep learning practice at GSU) into one discipline: start from a need, own the build, verify it, and leave proof a stranger can run. Resume is how I apply without inventing. SPT is how I train to a junior bar. Portfolio is what you can open and check. The destination is honest ownership and good work for real people.
+From ECE + AIML into device bring-up, staff-facing NLQ / RAG / agents, and Deep Learning at GSU, I own the work until partners can rely on what runs: validated outputs, clear notes, demoable proof.
 
 ---
 

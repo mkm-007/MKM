@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/mkm-007",
   },
   aboutMe:
-    "ECE + AIML taught me systems-first ML, and at GSU I apply research-grade rigor to build evidence-grounded AI that scales.",
+    "I own applied AI end to end: staff-facing NLQ, RAG, and agents with validated paths so partners can rely on tools under real use, and Deep Learning practice at GSU where careful evaluation comes before anyone trusts a result.",
   skills: [
     "Python",
     "SQL",
