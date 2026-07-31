@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Murali Krishna Maddineni",
   title: "MS Computer Science · Applied AI / Software",
   description:
-    "Portfolio of Murali Krishna Maddineni — MS CS at Georgia State University, Graduate Assistant in Deep Learning.",
+    "MS CS at Georgia State University. Deep Learning Graduate Assistant building practical applied AI from academic work.",
   accentColor: "#1d4ed8",
   social: {
     email: "mmaddineni1@student.gsu.edu",
@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/mkm-007",
   },
   aboutMe:
-    "I am an MS Computer Science student and Deep Learning Graduate Assistant at Georgia State. From ECE + AIML through coursework projects and campus AI tooling (NLQ, RAG, agents), I keep an academic standard: clear problem framing, careful evaluation, and reproducible demos before anyone trusts a result.",
+    "MS Computer Science student and Deep Learning Graduate Assistant at Georgia State. I am putting an ECE + AIML foundation to work through study, campus AI systems, and lab practice, with a practical mindset: understand clearly, build carefully, evaluate honestly, and keep moving toward Software and Applied AI roles where that discipline matters.",
   skills: [
     "Python",
     "SQL",
@@ -32,21 +32,21 @@ export const siteConfig = {
     {
       name: "NLQ Chatbot over Database",
       description:
-        "Natural-language-to-SQL chatbot so staff can query records without raw SQL; answers grounded on database results with a constrained, demoable query path.",
+        "Natural-language queries over a database with grounded answers, so users can ask questions without writing SQL.",
       link: "https://github.com/mkm-007/nlq-chatbot",
       skills: ["Python", "LangChain", "Postgres", "LLM"],
     },
     {
       name: "Document Abstraction with LLM (RAG)",
       description:
-        "Schematic chunking, vector indexing, and LLM summarization for document Q&A — retrieval-grounded abstracts with a reproducible pipeline.",
+        "Document Q&A with chunking, vector retrieval, and LLM summarization so answers stay tied to source text.",
       link: "https://github.com/mkm-007/doc-abstraction-llm",
       skills: ["Python", "ChromaDB", "LangChain", "RAG"],
     },
     {
       name: "UI Component Agent Bot",
       description:
-        "Agent that maps natural-language UI requests to component specs and emits Angular-ready stubs via a plan–act–emit loop.",
+        "Turns natural-language UI requests into component specs and Angular-ready stubs for faster prototyping.",
       link: "https://github.com/mkm-007/ui-agent-bot",
       skills: ["Python", "Angular", "Agentic Workflow"],
     },
@@ -57,8 +57,8 @@ export const siteConfig = {
       title: "Graduate Assistant — Deep Learning (CSC 8851)",
       dateRange: "Aug 2025 – Present",
       bullets: [
-        "Support in-person Deep Learning labs; guide students on Python/Linux debugging, experiment setup, and technical communication",
-        "Contribute to research workflows in weak supervision, vision, and generative DL under Prof. Hemanth Venkateswara",
+        "Guide Deep Learning lab students on Python/Linux debugging, experiment setup, and clear technical communication",
+        "Support research practice in weak supervision, vision, and generative deep learning under Prof. Hemanth Venkateswara",
       ],
     },
     {
@@ -66,8 +66,8 @@ export const siteConfig = {
       title: "Administrative Assistant — AI Systems",
       dateRange: "May 2024 – Dec 2024",
       bullets: [
-        "Led internal AI tools (NLQ chatbot, document RAG, UI agent) using Python, LangChain, LLMs, Postgres, and ChromaDB",
-        "Owned Angular integration and agentic workflows; validated data paths, docs, and demo handoff for staff use",
+        "Built campus AI tools (NLQ chatbot, document RAG, UI agent) with Python, LangChain, LLMs, Postgres, and ChromaDB",
+        "Integrated Angular front ends with agent workflows; checked data paths and prepared demos for staff handoff",
       ],
     },
     {
@@ -75,7 +75,7 @@ export const siteConfig = {
       title: "Embedded Systems Intern",
       dateRange: "May 2023 – Jul 2023",
       bullets: [
-        "Built ESP8266 NodeMCU voice-triggered LED prototype (Embedded C, IFTTT); documented bring-up, tests, and demo",
+        "Developed an ESP8266 voice-triggered LED prototype in Embedded C with IFTTT; documented bring-up and test notes",
       ],
     },
   ],
@@ -95,7 +95,7 @@ export const siteConfig = {
       dateRange: "Aug 2020 – Apr 2024",
       achievements: [
         "CGPA 7.95 · First Class with Distinction",
-        "Capstone: VoiceMate (RAGO) — context-aware voice assistant",
+        "Capstone: VoiceMate (RAGO), context-aware voice assistant",
         "Coursework: Machine Learning, Deep Learning, Modern AI, Big Data Analytics, DSA, DBMS, IoT, DSP",
       ],
     },

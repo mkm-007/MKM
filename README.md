@@ -6,9 +6,7 @@ Open to: Software / AI / ML Internships · Co-ops · Applied AI roles
 
 [Portfolio site](https://mkm-007.github.io/MKM/) · [Email](mailto:mmaddineni1@student.gsu.edu) · [GitHub](https://github.com/mkm-007) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/)
 
-I am building an academic foundation in applied AI and deep learning.
-
-As an MS CS student and Deep Learning GA at Georgia State, I work from ECE + AIML roots through coursework systems and campus AI tooling. The standard I hold is research-minded and honest: clear framing, careful evaluation, reproducible demos, and claims that survive scrutiny.
+MS Computer Science student and Deep Learning Graduate Assistant at Georgia State. I am putting an ECE + AIML foundation to work through study, campus AI systems, and lab practice, with a practical mindset: understand clearly, build carefully, evaluate honestly, and keep moving toward Software and Applied AI roles where that discipline matters.
 
 ---
 
@@ -16,17 +14,17 @@ As an MS CS student and Deep Learning GA at Georgia State, I work from ECE + AIM
 
 ### Graduate Assistant — Deep Learning (CSC 8851)
 **Georgia State University** · Atlanta, GA · Aug 2025 – Present  
-- Support in-person Deep Learning labs; guide students on Python/Linux debugging, experiment setup, and technical communication  
-- Contribute to research workflows in weak supervision, vision, and generative DL under [Prof. Hemanth Venkateswara](https://www.hemanthdv.org/index.html)
+- Guide Deep Learning lab students on Python/Linux debugging, experiment setup, and clear technical communication  
+- Support research practice in weak supervision, vision, and generative deep learning under [Prof. Hemanth Venkateswara](https://www.hemanthdv.org/index.html)
 
 ### Administrative Assistant — AI Systems
 **Centre for Advanced Technology Solutions, GITAM University** · Hyderabad, India · May 2024 – Dec 2024  
-- Led internal AI tools (NLQ chatbot, document RAG, UI agent) using Python, LangChain, LLMs, Postgres, and ChromaDB  
-- Owned Angular integration and agentic workflows; validated data paths, docs, and demo handoff for staff use
+- Built campus AI tools (NLQ chatbot, document RAG, UI agent) with Python, LangChain, LLMs, Postgres, and ChromaDB  
+- Integrated Angular front ends with agent workflows; checked data paths and prepared demos for staff handoff
 
 ### Embedded Systems Intern
 **National Small Industries Corporation (NSIC)** · Hyderabad, India · May 2023 – Jul 2023  
-- Built ESP8266 NodeMCU voice-triggered LED prototype (Embedded C, IFTTT); documented bring-up, tests, and demo
+- Developed an ESP8266 voice-triggered LED prototype in Embedded C with IFTTT; documented bring-up and test notes
 
 ---
 
@@ -34,19 +32,19 @@ As an MS CS student and Deep Learning GA at Georgia State, I work from ECE + AIM
 
 ### [NLQ Chatbot over Database](https://github.com/mkm-007/nlq-chatbot)
 **Python · LangChain · Postgres · LLM** · May 2024 – Dec 2024  
-Natural-language-to-SQL chatbot so staff can query records without raw SQL; answers grounded on database results.
+Natural-language queries over a database with grounded answers, so users can ask questions without writing SQL.
 
 ### [Document Abstraction with LLM (RAG)](https://github.com/mkm-007/doc-abstraction-llm)
 **Python · ChromaDB · LangChain** · May 2024 – Dec 2024  
-Schematic chunking, vector indexing, and LLM summarization for retrieval-grounded document Q&A.
+Document Q&A with chunking, vector retrieval, and LLM summarization so answers stay tied to source text.
 
 ### [UI Component Agent Bot](https://github.com/mkm-007/ui-agent-bot)
 **Python · Angular · Agentic Workflow** · May 2024 – Dec 2024  
-Agent that maps natural-language UI requests to component specs and emits Angular-ready stubs.
+Turns natural-language UI requests into component specs and Angular-ready stubs for faster prototyping.
 
 ### VoiceMate (RAGO) Voice Assistant
 **Python · RNN/LSTM/GRU** · Aug 2023 – Apr 2024  
-Led a 3-person UG capstone on a context-aware voice assistant; delivered demos and documentation.
+Undergraduate capstone: context-aware voice assistant; demos and documentation delivered with a 3-person team.
 
 ---
 
