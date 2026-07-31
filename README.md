@@ -6,7 +6,7 @@ Open to: Software / AI / ML Internships · Co-ops · Applied AI roles
 
 [Portfolio site](https://mkm-007.github.io/MKM/) · [Email](mailto:mmaddineni1@student.gsu.edu) · [GitHub](https://github.com/mkm-007) · [LinkedIn](https://www.linkedin.com/in/murali-maddineni-709151247/)
 
-ECE + AIML taught me systems-first ML, and at GSU I apply research-grade rigor to build evidence-grounded AI that scales.
+I learn from the problem, ask who it helps, apply the skill carefully, and leave something that serves someone. ECE + AIML into device systems, staff-facing AI, and deep learning practice at GSU.
 
 ---
 
