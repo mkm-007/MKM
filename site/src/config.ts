@@ -37,6 +37,20 @@ export const siteConfig = {
       skills: ["Python", "pytest", "speech eval"],
     },
     {
+      name: "Chunked Transcript Replay",
+      description:
+        "Replay timed partial-transcript chunks and flag time-to-final latency so streaming handoffs stay measurable.",
+      link: "https://github.com/mkm-007/chunked-transcript-replay",
+      skills: ["Python", "streaming latency", "pytest"],
+    },
+    {
+      name: "Retrieval Evaluation Kit",
+      description:
+        "Offline RAG-style recall@k harness with labeled fixtures and miss dumps from one run path.",
+      link: "https://github.com/mkm-007/retrieval-eval-kit",
+      skills: ["Python", "RAG eval", "pytest"],
+    },
+    {
       name: "NLQ Chatbot over Database",
       description:
         "Natural-language queries over a database with grounded answers, so users can ask questions without writing SQL.",
