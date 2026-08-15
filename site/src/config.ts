@@ -30,6 +30,13 @@ export const siteConfig = {
   ],
   projects: [
     {
+      name: "Voice Pipeline Eval Kit",
+      description:
+        "Offline ASR / voice-handoff eval harness with fixture clips, latency and fidelity scores, and failure dumps from one run path.",
+      link: "https://github.com/mkm-007/voice-pipeline-eval-kit",
+      skills: ["Python", "pytest", "speech eval"],
+    },
+    {
       name: "NLQ Chatbot over Database",
       description:
         "Natural-language queries over a database with grounded answers, so users can ask questions without writing SQL.",
