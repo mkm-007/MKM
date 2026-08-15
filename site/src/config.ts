@@ -51,6 +51,13 @@ export const siteConfig = {
       skills: ["Python", "RAG eval", "pytest"],
     },
     {
+      name: "Prompt Regression Kit",
+      description:
+        "Offline prompt/response overlap checks with failure dumps so LLM handoff wording drifts stay catchable.",
+      link: "https://github.com/mkm-007/prompt-regression-kit",
+      skills: ["Python", "LLMs", "pytest"],
+    },
+    {
       name: "NLQ Chatbot over Database",
       description:
         "Natural-language queries over a database with grounded answers, so users can ask questions without writing SQL.",
