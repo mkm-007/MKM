@@ -30,20 +30,15 @@ export const siteConfig = {
   ],
   projects: [
     {
-      name: "Voice Pipeline Eval Kit",
+      group: "Practice kits",
+      name: "Speech Pipeline Benchmark",
       description:
-        "Offline ASR / voice-handoff eval harness with fixture clips, latency and fidelity scores, and failure dumps from one run path.",
-      link: "https://github.com/mkm-007/voice-pipeline-eval-kit",
-      skills: ["Python", "pytest", "speech eval"],
+        "Owned offline benchmark for short clips: word error rate, latency percentiles, and streaming time-to-final under a bar.",
+      link: "https://github.com/mkm-007/speech-pipeline-benchmark",
+      skills: ["Python", "pytest", "speech quality / latency"],
     },
     {
-      name: "Chunked Transcript Replay",
-      description:
-        "Replay timed partial-transcript chunks and flag time-to-final latency so streaming handoffs stay measurable.",
-      link: "https://github.com/mkm-007/chunked-transcript-replay",
-      skills: ["Python", "streaming latency", "pytest"],
-    },
-    {
+      group: "Practice kits",
       name: "Retrieval Evaluation Kit",
       description:
         "Offline RAG-style recall@k harness with labeled fixtures and miss dumps from one run path.",
@@ -51,6 +46,7 @@ export const siteConfig = {
       skills: ["Python", "RAG eval", "pytest"],
     },
     {
+      group: "Practice kits",
       name: "Prompt Regression Kit",
       description:
         "Offline prompt/response overlap checks with failure dumps so LLM handoff wording drifts stay catchable.",
@@ -58,6 +54,55 @@ export const siteConfig = {
       skills: ["Python", "LLMs", "pytest"],
     },
     {
+      group: "Practice kits",
+      name: "Voice Pipeline Eval Kit",
+      description:
+        "Earlier ASR / voice-handoff fixture harness with latency and fidelity scores from one run path.",
+      link: "https://github.com/mkm-007/voice-pipeline-eval-kit",
+      skills: ["Python", "pytest", "speech eval"],
+    },
+    {
+      group: "Practice kits",
+      name: "Chunked Transcript Replay",
+      description:
+        "Earlier timed partial-transcript replay for streaming time-to-final measurement.",
+      link: "https://github.com/mkm-007/chunked-transcript-replay",
+      skills: ["Python", "streaming latency", "pytest"],
+    },
+    {
+      group: "Coursework",
+      name: "Region-guided radiology reports",
+      description:
+        "Advanced Image Processing coursework: region-guided explainable radiology report generation from chest X-rays.",
+      link: "https://github.com/mkm-007/AIP_Radiology_Project",
+      skills: ["Python", "vision", "report generation"],
+    },
+    {
+      group: "Coursework",
+      name: "Graph Deanonymization",
+      description:
+        "Privacy Aware Computing coursework: graph deanonymization on network structure.",
+      link: "https://github.com/mkm-007/Individual_Project",
+      skills: ["Python", "privacy", "graphs"],
+    },
+    {
+      group: "Coursework",
+      name: "Lifeline",
+      description:
+        "Database Systems coursework: blood donation and distribution platform.",
+      link: "https://github.com/mkm-007/DBS-CSC-6710",
+      skills: ["databases", "full stack"],
+    },
+    {
+      group: "Coursework",
+      name: "Weather time-series forecasting",
+      description:
+        "Machine Learning coursework: weather time-series analysis and forecasting on the Jena dataset.",
+      link: "https://github.com/mkm-007/ML-CSC-6850",
+      skills: ["Python", "time series", "ML"],
+    },
+    {
+      group: "Campus AI (Centre)",
       name: "NLQ Chatbot over Database",
       description:
         "Natural-language queries over a database with grounded answers, so users can ask questions without writing SQL.",
@@ -65,6 +110,7 @@ export const siteConfig = {
       skills: ["Python", "LangChain", "Postgres", "LLM"],
     },
     {
+      group: "Campus AI (Centre)",
       name: "Document Abstraction with LLM (RAG)",
       description:
         "Document Q&A with chunking, vector retrieval, and LLM summarization so answers stay tied to source text.",
@@ -72,6 +118,7 @@ export const siteConfig = {
       skills: ["Python", "ChromaDB", "LangChain", "RAG"],
     },
     {
+      group: "Campus AI (Centre)",
       name: "UI Component Agent Bot",
       description:
         "Turns natural-language UI requests into component specs and Angular-ready stubs for faster prototyping.",
@@ -81,29 +128,30 @@ export const siteConfig = {
   ],
   experience: [
     {
+      company: "Independent Applied Engineering Practice",
+      title: "Self-Practical Training: Applied Software / AI",
+      dateRange: "May 2026 – Present",
+      bullets: [
+        "Build Python and TypeScript/Angular labs with demos, tests, and GitHub run steps so product-style changes stay easy to verify",
+        "Drive scoped software practice from problem to verified demo with clear run docs so each lab stays stranger-runnable",
+      ],
+    },
+    {
       company: "Georgia State University",
       title: "Graduate Assistant — Deep Learning (CSC 8851)",
       dateRange: "Aug 2025 – Present",
       bullets: [
-        "Guide Deep Learning lab students on Python/Linux debugging, experiment setup, and clear technical communication",
-        "Support research practice in weak supervision, vision, and generative deep learning under Prof. Hemanth Venkateswara",
+        "Support CSC 8851 Deep Learning labs on Linux; debug Python experiment setup and brittle eval paths so shared coursework stays usable for students and faculty",
+        "Work on Prof. Venkateswara's deep learning research projects as part of the GA role: run experiments, review literature, and keep implementation notes so project evals stay reproducible",
       ],
     },
     {
       company: "Centre for Advanced Technology Solutions, GITAM University",
-      title: "Administrative Assistant — AI Systems",
-      dateRange: "May 2024 – Dec 2024",
+      title: "Applied AI Systems Developer",
+      dateRange: "May 2023 – Dec 2024",
       bullets: [
-        "Built campus AI tools (NLQ chatbot, document RAG, UI agent) with Python, LangChain, LLMs, Postgres, and ChromaDB",
-        "Integrated Angular front ends with agent workflows; checked data paths and prepared demos for staff handoff",
-      ],
-    },
-    {
-      company: "National Small Industries Corporation (NSIC)",
-      title: "Embedded Systems Intern",
-      dateRange: "May 2023 – Jul 2023",
-      bullets: [
-        "Developed an ESP8266 voice-triggered LED prototype in Embedded C with IFTTT; documented bring-up and test notes",
+        "Shipped Python REST APIs and Angular UIs over PostgreSQL with tests and run docs so staff could query and update operational data without ad-hoc scripts",
+        "Owned staff-facing NLQ, RAG, and UI-agent delivery with handoff notes so campus operators could run LLM tools day to day",
       ],
     },
   ],
