@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/mkm-007",
   },
   aboutMe:
-    "MS Computer Science student and Deep Learning Graduate Assistant at Georgia State. I am putting an ECE + AIML foundation to work through study, campus AI systems, and lab practice, with a practical mindset: understand clearly, build carefully, evaluate honestly, and keep moving toward Software and Applied AI roles where that discipline matters.",
+    "MS Computer Science student and Deep Learning Graduate Assistant at Georgia State. I am putting an ECE + AIML foundation to work through study, campus AI systems, and graduate coursework, with a practical mindset: understand clearly, build carefully, evaluate honestly, and keep moving toward Software and Applied AI roles where that discipline matters.",
   skills: [
     "Python",
     "SQL",
@@ -29,46 +29,6 @@ export const siteConfig = {
     "Embedded C",
   ],
   projects: [
-    {
-      group: "Practice kits",
-      name: "Speech Pipeline Benchmark",
-      description:
-        "Owned offline benchmark for short clips: word error rate, latency percentiles, and streaming time-to-final under a bar.",
-      link: "https://github.com/mkm-007/speech-pipeline-benchmark",
-      skills: ["Python", "pytest", "speech quality / latency"],
-    },
-    {
-      group: "Practice kits",
-      name: "Retrieval Evaluation Kit",
-      description:
-        "Offline RAG-style recall@k harness with labeled fixtures and miss dumps from one run path.",
-      link: "https://github.com/mkm-007/retrieval-eval-kit",
-      skills: ["Python", "RAG eval", "pytest"],
-    },
-    {
-      group: "Practice kits",
-      name: "Prompt Regression Kit",
-      description:
-        "Offline prompt/response overlap checks with failure dumps so LLM handoff wording drifts stay catchable.",
-      link: "https://github.com/mkm-007/prompt-regression-kit",
-      skills: ["Python", "LLMs", "pytest"],
-    },
-    {
-      group: "Practice kits",
-      name: "Voice Pipeline Eval Kit",
-      description:
-        "Earlier ASR / voice-handoff fixture harness with latency and fidelity scores from one run path.",
-      link: "https://github.com/mkm-007/voice-pipeline-eval-kit",
-      skills: ["Python", "pytest", "speech eval"],
-    },
-    {
-      group: "Practice kits",
-      name: "Chunked Transcript Replay",
-      description:
-        "Earlier timed partial-transcript replay for streaming time-to-final measurement.",
-      link: "https://github.com/mkm-007/chunked-transcript-replay",
-      skills: ["Python", "streaming latency", "pytest"],
-    },
     {
       group: "Coursework",
       name: "Region-guided radiology reports",
@@ -127,15 +87,6 @@ export const siteConfig = {
     },
   ],
   experience: [
-    {
-      company: "Independent Applied Engineering Practice",
-      title: "Self-Practical Training: Applied Software / AI",
-      dateRange: "May 2026 – Present",
-      bullets: [
-        "Build Python and TypeScript/Angular labs with demos, tests, and GitHub run steps so product-style changes stay easy to verify",
-        "Drive scoped software practice from problem to verified demo with clear run docs so each lab stays stranger-runnable",
-      ],
-    },
     {
       company: "Georgia State University",
       title: "Graduate Assistant — Deep Learning (CSC 8851)",
