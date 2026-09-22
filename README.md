@@ -36,6 +36,18 @@ Repos from courses I enrolled in.
 | Privacy Aware Computing (CSC 8228) | Graph deanonymization | [Individual_Project](https://github.com/mkm-007/Individual_Project) |
 | Database Systems | Lifeline — blood donation/distribution platform | [DBS-CSC-6710](https://github.com/mkm-007/DBS-CSC-6710) |
 | Machine Learning | Weather time-series analysis and forecasting (Jena dataset) | [ML-CSC-6850](https://github.com/mkm-007/ML-CSC-6850) |
+| Advanced Computer Networks (CSC 8220) | Congestion-aware survivable routing (LP) | [acn-survivable-routing](https://github.com/mkm-007/acn-survivable-routing) |
+| UG Capstone (GITAM) | VoiceMate voice assistant (RAGO public slice) | [voicemate-rago](https://github.com/mkm-007/voicemate-rago) |
+
+---
+
+## UG rebuilds (portfolio)
+
+| Brick | What it is | Repo |
+|-------|------------|------|
+| BEEE circuit laws | KVL/KCL, superposition, Thevenin (2026 rebuild) | [hardware-sketchbook](https://github.com/mkm-007/hardware-sketchbook) |
+| Internship IoT | ESP8266 voice-triggered LED (Skills proof) | [internship-iot-sketch](https://github.com/mkm-007/internship-iot-sketch) |
+| UG cores | DSA · ML · DL · Networks · DBMS · MPMC minis | [ug-core-sketchbook](https://github.com/mkm-007/ug-core-sketchbook) |
 
 ---
 
@@ -78,4 +90,4 @@ Coursework: Machine Learning, Deep Learning, Modern AI, Big Data Analytics, DSA 
 
 ---
 
-Last updated: August 2026 · Hub: [mkm-007/MKM](https://github.com/mkm-007/MKM)
+Last updated: September 2026 · Hub: [mkm-007/MKM](https://github.com/mkm-007/MKM)

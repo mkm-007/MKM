@@ -62,6 +62,46 @@ export const siteConfig = {
       skills: ["Python", "time series", "ML"],
     },
     {
+      group: "Coursework",
+      name: "Congestion-Aware Survivable Routing",
+      description:
+        "Advanced Computer Networks coursework: LP routing that minimizes worst-case utilization under single-link failures.",
+      link: "https://github.com/mkm-007/acn-survivable-routing",
+      skills: ["Python", "networks", "optimization"],
+    },
+    {
+      group: "Coursework",
+      name: "VoiceMate (RAGO)",
+      description:
+        "UG capstone public slice: voice assistant intent orchestration (Recognition → Understanding → Generation → Orchestration).",
+      link: "https://github.com/mkm-007/voicemate-rago",
+      skills: ["Python", "NLP", "voice AI"],
+    },
+    {
+      group: "UG rebuilds",
+      name: "hardware-sketchbook",
+      description:
+        "BEEE circuit-laws rebuild: KVL/KCL, superposition, Thevenin/Norton on a USB→MCU→LED frame.",
+      link: "https://github.com/mkm-007/hardware-sketchbook",
+      skills: ["Python", "circuits"],
+    },
+    {
+      group: "UG rebuilds",
+      name: "ESP8266 Voice-Triggered LED",
+      description:
+        "Internship IoT rebuild: assistant phrase → LED command → NodeMCU simulation (Skills proof).",
+      link: "https://github.com/mkm-007/internship-iot-sketch",
+      skills: ["IoT", "ESP8266", "Embedded C"],
+    },
+    {
+      group: "UG rebuilds",
+      name: "UG Core Sketchbook",
+      description:
+        "High-signal UG minis: DSA, classic ML, tiny DL, networks ARQ, DBMS, MPMC GPIO.",
+      link: "https://github.com/mkm-007/ug-core-sketchbook",
+      skills: ["Python", "DSA", "ML", "networks"],
+    },
+    {
       group: "Campus AI (Centre)",
       name: "NLQ Chatbot over Database",
       description:
@@ -112,7 +152,7 @@ export const siteConfig = {
       degree: "M.Sc. Computer Science",
       dateRange: "Jan 2025 – Present",
       achievements: [
-        "Coursework: Deep Learning, Machine Learning, Database Systems, Privacy Aware Computing, Advanced Image Processing",
+        "Coursework: Deep Learning, Machine Learning, Database Systems, Privacy Aware Computing, Advanced Image Processing, Advanced Computer Networks",
         "Graduate Assistant — Deep Learning (CSC 8851)",
       ],
     },
